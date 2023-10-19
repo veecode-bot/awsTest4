@@ -1,0 +1,5 @@
+---
+route53_zone_domain: "apps.vkpr.net"
+cdn_domain: "AwsTest3.apps.vkpr.net"
+id_zone: "Z07940991R8A4LWFFEA2Z"
+bucket: AwsTest3
